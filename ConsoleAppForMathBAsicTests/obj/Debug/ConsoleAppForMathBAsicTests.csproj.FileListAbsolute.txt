@@ -1,0 +1,17 @@
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\bin\Debug\ConsoleAppForMathBAsicTests.dll
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\bin\Debug\ConsoleAppForMathBAsicTests.pdb
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\bin\Debug\ConsoleAppForMathBAsic.exe
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\bin\Debug\ConsoleAppForMathBAsic.pdb
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\bin\Debug\ConsoleAppForMathBAsic.exe.config
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\obj\Debug\ConsoleAppForMathBAsicTests.csproj.AssemblyReference.cache
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\obj\Debug\ConsoleAppForMathBAsicTests.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\obj\Debug\ConsoleAppForMathBAsicTests.csproj.CopyComplete
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\obj\Debug\ConsoleAppForMathBAsicTests.dll
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsicTests\obj\Debug\ConsoleAppForMathBAsicTests.pdb
