@@ -1,0 +1,2 @@
+# ConsoleAppForMathBAsicRepo
+basic math repo
