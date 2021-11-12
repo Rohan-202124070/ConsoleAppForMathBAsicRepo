@@ -26,5 +26,6 @@ namespace ConsoleAppForMathBAsic
         {
             return a * b;
         }
+
     }
 }

@@ -59,6 +59,14 @@ namespace ConsoleAppForMathBAsic
             Assert.AreEqual(result, math_result);
         }
 
+        [TestMethod]
+        public void Test_PerformSomething_IfCase()
+        {
+            ConsoleAppForMathBAsic.ChildMath unitTest = new ConsoleAppForMathBAsic.ChildMath();
+            double result = 20.0;
+            double math_result = unitTest.Add(5.0, 5.0);
+            Assert.AreEqual(result, math_result);
+        }
 
     }
 }

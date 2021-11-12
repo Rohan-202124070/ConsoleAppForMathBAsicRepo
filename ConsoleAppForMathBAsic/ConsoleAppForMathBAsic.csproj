@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ApplicationCodeClass.cs" />
     <Compile Include="ChildMath.cs" />
+    <Compile Include="CaesTesting.cs" />
     <Compile Include="Math.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

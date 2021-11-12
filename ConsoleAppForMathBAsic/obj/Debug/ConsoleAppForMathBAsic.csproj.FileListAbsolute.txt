@@ -12,3 +12,9 @@ C:\Users\677436\source\repos\ConsoleAppForMathBAsic\ConsoleAppForMathBAsic\obj\D
 \\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsic\obj\Debug\ConsoleAppForMathBAsic.csproj.CoreCompileInputs.cache
 \\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsic\obj\Debug\ConsoleAppForMathBAsic.exe
 \\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsic\ConsoleAppForMathBAsic\obj\Debug\ConsoleAppForMathBAsic.pdb
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsicRepo\ConsoleAppForMathBAsic\bin\Debug\ConsoleAppForMathBAsic.exe.config
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsicRepo\ConsoleAppForMathBAsic\bin\Debug\ConsoleAppForMathBAsic.exe
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsicRepo\ConsoleAppForMathBAsic\bin\Debug\ConsoleAppForMathBAsic.pdb
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsicRepo\ConsoleAppForMathBAsic\obj\Debug\ConsoleAppForMathBAsic.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsicRepo\ConsoleAppForMathBAsic\obj\Debug\ConsoleAppForMathBAsic.exe
+\\adir.hull.ac.uk\home\677\677436\GitHub\MLSS-lab\ConsoleAppForMathBAsicRepo\ConsoleAppForMathBAsic\obj\Debug\ConsoleAppForMathBAsic.pdb
