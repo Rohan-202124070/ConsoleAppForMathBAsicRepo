@@ -26,6 +26,18 @@ namespace ConsoleAppForMathBAsic
                 return math.multiply(x, y);
             }
         }
+        public void TestVoid(int x, int ans)
+        {
+            if (x == 7)
+            {
+                ans = 9;
+            }
+            else
+            {
+                ans = 10;
+            }
+
+        }
 
         public double findSum(int index)
         {

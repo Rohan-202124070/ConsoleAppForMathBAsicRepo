@@ -17,8 +17,7 @@ namespace ConsoleAppForMathBAsic.Tests
             ApplicationCodeClass target = new ApplicationCodeClass();
             string[] strArray = null;
             string expected = string.Empty;
-            string actual;
-            actual = target.combineArrayStringWithSpace(strArray);
+            String actual = target.combineArrayStringWithSpace(strArray);
             Assert.AreEqual(expected, actual);
             Assert.Inconclusive("verify the correctness of this test method");
         }

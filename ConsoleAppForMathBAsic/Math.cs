@@ -27,5 +27,20 @@ namespace ConsoleAppForMathBAsic
             return a * b;
         }
 
+        public double addByLoop(int i, int j)
+        {
+            double sum = 0.0;
+            for(int m =0; m <i; m++)
+            {
+                if(i % 2 == 0)
+                {
+                    sum += i;
+                } else
+                {
+                    sum += j;
+                }
+            }
+            return sum;
+        }
     }
 }

@@ -44,10 +44,11 @@ namespace ConsoleAppForMathBAsic
         }
 
         [TestMethod]
+        [ExpectedException(typeof(ArgumentException), "Denominator cannot be zero")]
         public void Test_Div_Exc_Case()
         {
             ConsoleAppForMathBAsic.Math unitTest = new ConsoleAppForMathBAsic.Math();
-            Assert.ThrowsException<System.ArgumentException>(() => unitTest.devide(10.0 , 0));
+            unitTest.devide(10.0, 0);
         }
 
         [TestMethod]
@@ -68,5 +69,13 @@ namespace ConsoleAppForMathBAsic
             Assert.AreEqual(result, math_result);
         }
 
+        [TestMethod]
+        public void Test_AddLoop()
+        {
+            ConsoleAppForMathBAsic.Math unitTest = new ConsoleAppForMathBAsic.Math();
+            double result = 100.0;
+            double math_result = unitTest.addByLoop(10, 5);
+            Assert.AreEqual(result, math_result);
+        }
     }
 }

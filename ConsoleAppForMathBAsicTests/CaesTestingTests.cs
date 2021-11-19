@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppForMathBAsic.Tests
 {
+
     [TestClass()]
     public class CaesTestingTests
     {
@@ -92,11 +93,25 @@ namespace ConsoleAppForMathBAsic.Tests
             Assert.AreEqual(result, math_result);
         }
 
+        [TestMethod()]
         public void findSumTestCase8()
         {
             double result = 0.0;
             double math_result = caseObj.findSum(11);
             Assert.AreEqual(result, math_result);
+        }
+
+
+        [TestMethod()]
+        public void testVoid_test()
+        {
+            caseObj.TestVoid(7,9);
+        }
+
+        [TestMethod()]
+        public void testVoid_else_test()
+        {
+            caseObj.TestVoid(6, 9);
         }
     }
 }
